@@ -5,6 +5,8 @@ This repository contains the source code associated with our paper:
 **"Improving Comparability of Temporal Evolution in 2D Embeddings of Ensemble Data"**  
 Simon Leistikow, Vladimir Molchanov, and Lars Linsen
 
+![illustration](https://github.com/user-attachments/assets/98427213-efc4-4341-9220-fd5f68c00250)
+
 ## Overview
 
 We present a method to enhance the comparability of time-evolving ensemble data when visualized in 2D embeddings. The repository includes preprocessing scripts, a demonstration application, and required dependencies to reproduce our results.
@@ -20,7 +22,7 @@ git clone https://github.com/sleistikow/simplified-embeddings.git
 cd temporal-embedding-comparability
 ```
 
-### 2. Set Up a Virtual Environment
+### 2. Set up a Virtual Environment
 
 ```bash
 python3 -m venv venv
@@ -53,6 +55,6 @@ If you use this code or refer to our work, please cite the following paper:
 ## Acknowledgements
 
 This work was funded by the Deutsche Forschungsgemeinschaft (DFG):
-- Grant LI 1530/28-1 — 468824876
-- Grant MO 3050/2-3 — 360330772
+- Grant LI 1530/28-1 â€” 468824876
+- Grant MO 3050/2-3 â€” 360330772
 
