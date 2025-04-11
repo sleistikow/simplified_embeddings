@@ -18,7 +18,7 @@ To run the demo locally, follow these steps:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/sleistikow/simplified-embeddings.git
+git clone https://github.com/sleistikow/simplified_embeddings.git
 cd temporal-embedding-comparability
 ```
 
