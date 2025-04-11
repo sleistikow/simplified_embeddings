@@ -1,0 +1,7 @@
+from techniques.classicalmds import ClassicalMdsEmbedding
+from techniques.iterativemds import IterativeMdsEmbedding
+from techniques.lagrangemultiplier import LagrangeMultiplierEmbedding
+from techniques.ours import OurEmbedding
+from techniques.optimizer import OptimizerEmbedding
+from techniques.procrustes import ProcrustesEmbedding
+from techniques.springlayout import SpringLayoutEmbedding
