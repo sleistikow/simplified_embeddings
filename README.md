@@ -7,6 +7,9 @@ Simon Leistikow, Vladimir Molchanov, and Lars Linsen
 
 ![illustration](https://github.com/user-attachments/assets/98427213-efc4-4341-9220-fd5f68c00250)
 
+The code is licensed under the MIT license.
+Copyright (c) 2025 Simon Leistikow
+
 ## Overview
 
 We present a method to enhance the comparability of time-evolving ensemble data when visualized in 2D embeddings. The repository includes preprocessing scripts, a demonstration application, and required dependencies to reproduce our results.
@@ -19,7 +22,7 @@ To run the demo locally, follow these steps:
 
 ```bash
 git clone https://github.com/sleistikow/simplified_embeddings.git
-cd temporal-embedding-comparability
+cd simplified_embeddings
 ```
 
 ### 2. Set up a Virtual Environment
