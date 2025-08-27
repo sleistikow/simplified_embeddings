@@ -52,7 +52,19 @@ python application.py
 
 If you use this code or refer to our work, please cite the following paper:
 ```bibtex
-# will be added as soon as published
+@ARTICLE{Leistikow-2025-1,
+    author={Leistikow,S. and Molchanov,V. and  Linsen,L.},
+    title={Improving Comparability of Temporal Evolution in 2D Embeddings of Ensemble Data},
+    journal={Computer Science Research Notes [CSRN]},
+    year={2025},
+    volume={3501},
+    number = {1},
+    pages={129-138},
+    doi={10.24132/CSRN.2025-14},
+    publisher={Union Agency, Science Press},
+    issn={2464-4617},
+    document_type={Article},
+}
 ```
 
 ## Acknowledgements
