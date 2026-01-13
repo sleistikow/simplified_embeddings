@@ -5,7 +5,7 @@ This repository contains the source code associated with our paper:
 **"Improving Comparability of Temporal Evolution in 2D Embeddings of Ensemble Data"**  
 Simon Leistikow, Vladimir Molchanov, and Lars Linsen
 
-You can read the paper [here](http://wscg.zcu.cz/WSCG2025/papers/B47.pdf).
+You can read the paper [here](https://dspace.zcu.cz/bitstreams/40eae9b1-47f0-4e79-9f7c-0577543faf4c/download).
 
 ![illustration](https://github.com/user-attachments/assets/98427213-efc4-4341-9220-fd5f68c00250)
 
